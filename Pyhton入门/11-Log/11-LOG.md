@@ -55,8 +55,8 @@
     - 不配置logger则使用默认值
         - 输出： sys.stderr
         - 级别： WARNING
-        - 格式： level: log_name:content
-    - 案例11.1
+        - 格式： level: log_name:content     
+    - 案例11.1.py
     - format参数
         ```
         asctime 	%(asctime)s 	日志事件发生的时间--人类可读时间，如：2003-07-08 16:49:45,896
