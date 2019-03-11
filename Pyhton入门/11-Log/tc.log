@@ -1,0 +1,30 @@
+DEBUG:root:This is a debug log.
+INFO:root:This is a info log.
+WARNING:root:This is a warning log.
+ERROR:root:This is a error log.
+CRITICAL:root:This is a critical log.
+DEBUG:root:This is a debug log.
+INFO:root:This is a info bug.
+WARNING:root:This is a warning bug.
+ERROR:root:This is a error bug.
+CRITICAL:root:This is a critical bug.
+2019-03-02 15:08:24,553=====DEBUG=====(message)s
+2019-03-02 15:08:24,553=====INFO=====(message)s
+2019-03-02 15:08:24,553=====WARNING=====(message)s
+2019-03-02 15:08:24,553=====ERROR=====(message)s
+2019-03-02 15:08:24,553=====CRITICAL=====(message)s
+2019-03-02 15:08:24,553=====DEBUG=====(message)s
+2019-03-02 15:08:24,553=====INFO=====(message)s
+2019-03-02 15:08:24,553=====WARNING=====(message)s
+2019-03-02 15:08:24,554=====ERROR=====(message)s
+2019-03-02 15:08:24,554=====CRITICAL=====(message)s
+2019-03-02 15:09:02,974=====DEBUG=====This is a debug log.
+2019-03-02 15:09:02,975=====INFO=====This is a info log.
+2019-03-02 15:09:02,975=====WARNING=====This is a warning log.
+2019-03-02 15:09:02,975=====ERROR=====This is a error log.
+2019-03-02 15:09:02,975=====CRITICAL=====This is a critical log.
+2019-03-02 15:09:02,975=====DEBUG=====This is a debug log.
+2019-03-02 15:09:02,975=====INFO=====This is a info bug.
+2019-03-02 15:09:02,975=====WARNING=====This is a warning bug.
+2019-03-02 15:09:02,975=====ERROR=====This is a error bug.
+2019-03-02 15:09:02,975=====CRITICAL=====This is a critical bug.
